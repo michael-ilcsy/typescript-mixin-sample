@@ -1,0 +1,2 @@
+# typescript-mixin-sample
+typescriptでのmixinのサンプル
